@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://puvusukobico.pages.dev/sitemap.xml
